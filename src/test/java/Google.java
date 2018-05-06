@@ -54,7 +54,7 @@ public class Google {
             }
 
         }
-Assert.fail("Page was not found");
+            Assert.fail("Page was not found");
     }
 
 }
