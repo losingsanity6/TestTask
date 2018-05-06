@@ -52,13 +52,7 @@ public class Google {
                 WebElement next = driver.findElement(By.xpath("//*[@id=\"pnnext\"]/span[2]"));
                 next.click();
             }
-
         }
-            Assert.fail("Page was not found");
+       Assert.fail("Page was not found");
     }
-
 }
-
-
-
-
