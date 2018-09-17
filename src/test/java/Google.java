@@ -76,6 +76,10 @@ public class Google {
                 body("marka_id[0]", equalTo(9));
 
     }
+    @Test
+    public void test(){
+        //akdjsakdjsk
+    }
 
     @Test()
     public void countOfPageTest() {
