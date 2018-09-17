@@ -14,7 +14,7 @@ public class Google {
     private String key = "api_key=Q7qNVxdwbZV6xGmpD37IjPjy0AuCRmkYK5lNnRpd";
 
     @Test
-    public void checkTitleTest() {
+    public void checkfkdfjkdjfkdjfkdj() {
         System.setProperty("webdriver.chrome.driver", "H:\\Testing\\chromedriver.exe");
 
         WebDriver driver = new ChromeDriver();
