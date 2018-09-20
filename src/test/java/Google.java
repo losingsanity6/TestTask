@@ -76,7 +76,7 @@ public class Google {
                 body("marka_id[0]", equalTo(9));
 
     }
-    @Test(Dataprovider.class = "fjdjfj")
+    @Test
     public void teeeeest(){
         //akdjsakdjsk
         //aadsdsds
