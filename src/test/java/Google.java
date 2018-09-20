@@ -85,7 +85,7 @@ public class Google {
     public void countOfPageTest() {
         //test conflict
         given().get("https://developers.ria.com/new_to_old?" + key + "&categories.main.id=1&brand.id%5B0%5D=9&year%5B0%5D.gte=2011&year%5B0%5D.lte=2016&custom.not=1&fuel.id%5B5%5D=6&gearbox.id%5B1%5D=2&gearbox.id%5B2%5D=3&size=10%22&countpage=10").
-                then().
+                kdkfjkdjfkdjfkdjkfjdkfjkd
                 statusCode(200).
             //dfjkdjfhddadsasdsa
 //alsdjasljdlasjdlasljdlasdljasdl
